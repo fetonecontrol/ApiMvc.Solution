@@ -12156,11 +12156,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/frederickernest/Desktop/MvcApi.Solution/MvcApi.Solution.csproj",
+      "projectUniqueName": "/Users/frederickernest/Desktop/ApiMvc.Solution/ApiMvc/MvcApi.Solution.csproj",
       "projectName": "MvcApi.Solution",
-      "projectPath": "/Users/frederickernest/Desktop/MvcApi.Solution/MvcApi.Solution.csproj",
+      "projectPath": "/Users/frederickernest/Desktop/ApiMvc.Solution/ApiMvc/MvcApi.Solution.csproj",
       "packagesPath": "/Users/frederickernest/.nuget/packages/",
-      "outputPath": "/Users/frederickernest/Desktop/MvcApi.Solution/obj/",
+      "outputPath": "/Users/frederickernest/Desktop/ApiMvc.Solution/ApiMvc/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
